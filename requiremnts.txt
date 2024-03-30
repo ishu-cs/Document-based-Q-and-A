@@ -1,0 +1,12 @@
+langchain
+tiktoken
+pypdf
+sentence-transformers==2.2.2
+InstructorEmbedding
+faiss-cpu
+ipykernel
+openai
+pandas
+streamlit
+ctransformers
+python-dotenv
